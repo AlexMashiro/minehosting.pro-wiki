@@ -20,5 +20,7 @@
 Контактная информация
 =======================
 `MineHosting.pro <https://minehosting.pro>`_
+
 indfinde@team.abcd.bz
+
 `vk.com/minehostingpro <https://vk.com/minehostingpro>`_
