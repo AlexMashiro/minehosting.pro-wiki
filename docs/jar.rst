@@ -3,7 +3,7 @@
 
 Для установки собственной сборки Minecraft сервера:
 
-1. Подключаетесь к серверу по FTP (инструкция по подключению: :ref:`ftp`)
+1. Подключаетесь к серверу по FTP (`инструкция по подключению <http://minehostingpro-wiki.readthedocs.io/en/latest/ftp.html>`_)
 
 2. Удаляете все кроме **server.properties**
 
