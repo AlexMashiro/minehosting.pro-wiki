@@ -19,8 +19,8 @@
 
 Контактная информация
 =======================
-`MineHosting.pro <https://minehosting.pro>`_
+Сайт: `MineHosting.pro <https://minehosting.pro>`_
 
-indfinde@team.abcd.bz
+Email администратора: indfinde@team.abcd.bz
 
-`vk.com/minehostingpro <https://vk.com/minehostingpro>`_
+Группа ВКонтакте: `vk.com/minehostingpro <https://vk.com/minehostingpro>`_
